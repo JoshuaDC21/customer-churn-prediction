@@ -15,12 +15,17 @@ The workflow includes **data preprocessing**, **feature engineering**, **categor
 
 ## Project Structure
 customer-churn-prediction/
+
 |
+
 ├─ README.md
 
 ├─ customer_churn_prediction.ipynb
+
 ├─ data/
+
 ├─ requirements.txt
+
 └─ .gitignore
 
 ---
